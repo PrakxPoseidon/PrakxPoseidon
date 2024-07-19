@@ -14,8 +14,7 @@
 - 📫 How to reach me **prakxposeidon@gmail.com**
 
 - ⚡ Fun fact **Currently watching Anime**
- 
-https://leetcard.jacoblin.cool/PrakXPoseidon?theme=forest&font=DM%20Serif%20Display&ext=heatmap
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/PrakXPoseidon?theme=forest&font=DM%20Serif%20Display&ext=heatmap)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
